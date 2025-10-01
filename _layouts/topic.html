@@ -1,0 +1,39 @@
+---
+layout: page
+---
+
+<!-- _layouts/topic.html -->
+
+<h2>{{ page.title | default: page.topic | default: "Topic" }}</h2>
+
+{%- comment -%}
+Resolve the topic name:
+1) Use page.topic if provided.
+2) Else infer from URL (/software/ -> "software").
+{%- endcomment -%}
+{%- assign topic_from_url = page.url | split:'/' | where_exp:'s','s != ""' | first -%}
+{%- assign topic = page.topic | default: topic_from_url | default: 'misc' -%}
+
+{%- comment -%}
+Group all articles by their first folder under _articles/ (e.g., _articles/linux/foo.md -> "linux")
+Then select the group whose name == topic.
+{%- endcomment -%}
+{%- assign groups = site.articles
+  | group_by_exp: "d", "d.path | split: '/' | slice: 1, 1 | first | default: 'misc'"
+-%}
+{%- assign current = groups | where: "name", topic | first -%}
+{%- assign topic_items = current.items | sort: "date" | reverse -%}
+
+{%- if topic_items and topic_items.size > 0 -%}
+  <ul>
+  {%- for doc in topic_items -%}
+    <li>
+      <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+      {%- if doc.date %} <small>({{ doc.date | date: "%Y-%m-%d" }})</small>{% endif %}
+      {%- if doc.summary %}<br><small>{{ doc.summary }}</small>{% endif %}
+    </li>
+  {%- endfor -%}
+  </ul>
+{%- else -%}
+  <p><em>No articles found under “{{ topic }}”.</em></p>
+{%- endif -%}
