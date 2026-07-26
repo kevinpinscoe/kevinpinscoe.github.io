@@ -68,6 +68,11 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+# Jekyll skips dot-directories by default, so .well-known would never reach the
+# build output. Include it so /.well-known/security.txt (RFC 9116) is served.
+include:
+  - .well-known
+
 # Don’t read what we write (avoids infinite loops locally)
 exclude:
   - docs

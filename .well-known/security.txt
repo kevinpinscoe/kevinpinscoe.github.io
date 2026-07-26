@@ -1,0 +1,21 @@
+# Security contact information for kevinpinscoe.github.io
+# https://www.rfc-editor.org/rfc/rfc9116
+#
+# Jekyll skips dot-directories by default, so `.well-known` is listed under
+# `include:` in _config.yml. This file has no front matter, so Jekyll treats it
+# as a static file and copies it to the build output byte for byte.
+
+Contact: mailto:kevin.inscoe@gmail.com
+Contact: https://github.com/kevinpinscoe/.github/security/advisories/new
+
+Expires: 2027-07-26T00:00:00.000Z
+
+Encryption: https://raw.githubusercontent.com/kevinpinscoe/dotfiles/main/kevinpinscoe_gpg_public_key.asc
+# OpenPGP primary fingerprint — verify the key before use:
+#   FEDA 8FCB A361 BCF2 1C5A  EE68 400D 8321 5F67 26D6
+
+Policy: https://github.com/kevinpinscoe/.github/blob/main/SECURITY.md
+
+Preferred-Languages: en
+
+Canonical: https://kevinpinscoe.github.io/.well-known/security.txt
