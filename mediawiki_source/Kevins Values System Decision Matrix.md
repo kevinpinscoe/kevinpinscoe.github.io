@@ -1,0 +1,159 @@
+See also [Time Management](Time_Management "wikilink"), [How I
+work](How_I_work "wikilink") and [Life Plan](Life_Plan "wikilink").
+
+## Summary
+
+"It's not hard to make decisions once you know what your values are." -
+Roy E. Disney
+
+I have created a modified Covey’s 4 Quadrants or "Eisenhower Decision
+Matrix" which I call "My Values Filter".
+
+See further [First Things
+First](https://en.wikipedia.org/wiki/First_Things_First_(book)) a book
+written by Stephen Covey, A. Roger Merrill, and Rebecca R. Merrill.
+
+"Commit your work to the Lord, and your plans will be established." -
+Proverbs 16:3 ESV
+
+"The plans of the diligent lead surely to abundance, but everyone who is
+hasty comes only to poverty." - Proverbs 21:5 ESV
+
+## My values system decision matrix filter
+
+It was derived from several sources both divine and inspirational. First
+the inspirational:
+
+These are the main books I derived my organization skills from the
+following books:
+
+- [Getting Things Done: The Art of Stress-Free
+  Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
+- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal
+  Change](http://www.amazon.com/The-Habits-Highly-Effective-People/dp/0743269519/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1362069159)
+- [The One Minute
+  Manager](http://www.amazon.com/The-Minute-Manager-Kenneth-Blanchard/dp/0688014291/ref=sr_1_1?ie=UTF8&qid=1362076407&sr=8-1&keywords=the+one+minute+manager)
+
+The values portion of my methodology comes from many sources but what
+got me thinking about it originally is coming through the Franklin-Covey
+time management course I took back in 1997. Covey has this concept of a
+mission statement and values. I dropped the mission statement as being
+too simplistic in today's complicated and plural demand society. But I
+did like his idea of values. Even though it’s tired and worn out phrase
+it’s still cultural and true today. I just personalize it more.
+
+## Priorities, priorities!
+
+Ok so you have seen the standard priorities matrix, urgent, non-urgent,
+etc…
+
+<http://makeyourlifeplan.com/priorities_urgent_but_important_classic_view.jpg>
+
+<https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method>
+
+Which is where you get the Covey A1, B1, C6 and D9 priority scheme they
+use in the planners.
+
+Eisenhower is quoted as saying "What is important is seldom urgent and
+what is urgent is seldom important," and that sums up the concept of the
+priority matrix. This so-called "Eisenhower Principle" is said to be how
+U.S. President Dwight D. Eisenhower organized his tasks. As a result,
+the matrix is sometimes called the Eisenhower Matrix. I think that’s
+where Covey got it from originally.
+
+If you want the Covey quadrant matrix planner system for iOS or iPad
+look for an app called [Opus Domini](http://www.piso13.com/).
+
+I just took that matrix to a different level with the main assumption
+that there is no humanly way I can accomplish all that I would like to
+do in this moment or in this lifetime. So to that end I now place all
+perceived tasks or objectives in the following filter quadrants which I
+designed and is a slight rip-off of Ken Blanchard's Quadrants. Ken
+Blanchard being the author of "The One Minute Manager".
+
+I still apply the classic priority chart from Covey above but only after
+first running it through the quadrant filter above.
+
+## Filter Quadrants
+
+<figure>
+<img src="quadrant_filter.png" title="quadrant_filter.png" />
+<figcaption>quadrant_filter.png</figcaption>
+</figure>
+
+Two columns – Chinese menu A and B. Required or Your Decision.
+
+Required means <b>someone else told you that you need to do this</b> or
+you realize that someone needs this done even if it does not fit your
+desires or values system per se (for relationships: professional or
+personal). It isn’t based on your values and it often isn’t even based
+on your goals, desires or sometime even reality. You just have to
+perform this task as best you can so end of the story. It’s the
+necessary. It could be to complete your tax return or walk the dog.
+<b>It’s not negotiable</b>.
+
+Your decisions are just that, they are <b>tied to your values and
+needs</b> and are quite negotiable and can even be ignored at varying
+consequences.
+
+Two rows: Required: Urgent and Non-Urgent.
+
+Remember that tasks in these two quadrants are required!
+
+Ok these are the classic definitions for the most part with some
+attenuation. Urgent is self-explanatory but to use the priority matrix:
+This is the metaphorical "[swallowing the live
+frog](http://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks-morning/)"
+quadrant. Do the thing we least like to do first each day but
+<b>ONLY</b> if it’s truly urgent (you have to decide what that means)
+otherwise we move it to "Non-Urgent" quadrant.
+
+Non-urgent: Ahh here is the usual trap. You know you must do this thing
+but it’s not necessarily urgent nor does it have a due date either.
+Remember we are still in the Required column so you can’t get rid of
+this task. This is where I do resource and time analysis planning and
+give it at least some kind of working due date. In reality if it truly
+is required there is a date somewhere you just have to figure out what
+it is either by analyses, effort or dependency analysis (what is the
+consequence if that isn’t done in a certain time).
+
+Two rows: Decisions: Values and Fun and Fulfilling.
+
+Remember my system is to filter and remove the unnecessary tasks to make
+time for other that are necessary. My system will help (particularly
+left brainers) arrive at the “needed” or “unneeded” decision. So for
+that reason mine is a <b>decision matrix not a priority matrix</b>.
+Unlike Covey I am not assuming everything must get done here, even
+eventually. If it is required than it should be above but if not
+required maybe we won't add this task. My view: the dreamed task is the
+wont ever get done task. If you love it put a due date on it!
+
+Fun and fulfilling: Ahh this is my favorite place. For many this is a
+the time waster quadrant. For some it is playing on Facebook all day and
+for others it's reading a book. In any case it’s your unwind time, the
+time to refresh your mind and eases stress on your body and yes it is
+needed time. "All work and no play make Jack a dull boy" and all that.
+This quadrant while necessary needs a time budget. Two hours a day or
+whatever you deem a sufficient time allowance for this category. Once
+you have exhausted that time that's it for today this category is
+busted.
+
+Finally the major part I have adapted are "My Values Filter". This is
+where it is not required by some other person or entity. I could blow
+this off or I could just drop the task altogether but somewhere in the
+past (if you’re a list keeper like me) this seemed important at the
+time. It’s time to re-evaluate that based on your life values. I try to
+keep my life values at between 3-6 major headings: Family, Faith,
+Health, Career, Quality of Life and Education/Self Improvement or
+something like that. Covey is big on this part. I am still working out
+the math I use to arrive at exactly how I prioritize these tasks
+(weighted values come to mind) but it is important that these tasks
+<b>did NOT fit the other three quadrants first</b> as we now apply a
+filter to get RID of other tasks that cost more than they add to the
+value I appreciate.
+
+Finally I set hard due dates when I would like to accomplish based on
+anticipated effort, resources, availability and time constraints.
+
+I still apply the classic priority chart from Covey above but only after
+first running it through the quadrant filter above.
