@@ -81,3 +81,5 @@ exclude:
   - .jekyll-cache
   - .bundle
   - vendor
+  # Authoring source for imported wiki articles — kept in the repo, never published.
+  - mediawiki_source
